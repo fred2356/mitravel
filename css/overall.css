@@ -37,3 +37,14 @@ input[type="search"]::-webkit-search-results-decoration {
 	text-align: center;
 	min-width: none;
 }
+
+.btn {
+	font-weight: 800;
+	font-size: 12px;
+	line-height: 14px;
+	letter-spacing: 2.18182px;
+	text-transform: uppercase;
+	border-radius: 8px;
+	color: var(--white-color);
+	padding: 33px 80px;
+}
